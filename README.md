@@ -53,7 +53,7 @@ This repository documents:
 
 For full product breakdown:
 
- ✏️ See: `HEY_CHAT_PRODUCT_CASE_STUDY.md`
+ ➡️ See: `HEY_CHAT_PRODUCT_CASE_STUDY.md`
 
 ---
 
